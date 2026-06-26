@@ -169,9 +169,7 @@ Add screenshots of the dashboard pages inside the **Screenshots** folder.
 
 ---
 
-## Author
 
-**Your Name**
 
 - **Project:** Customer Segmentation Power BI Dashboard
 - **Tool:** Microsoft Power BI
